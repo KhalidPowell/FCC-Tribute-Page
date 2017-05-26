@@ -1,0 +1,29 @@
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"/>
+
+<style>
+  body {
+    background-color: #ee5456;
+  }
+  .custom-text {
+    color: #0551d1;
+  }
+</style>
+
+<body>
+  <h1 class="text-center">Chance The Rapper</h1>
+
+  <h3 class="text-center">Leader of Chicago's Renaissance</h3>
+ <center> <img src="https://pbs.twimg.com/profile_images/726486379484553216/nxNz44_J_400x400.jpg" alt="Coloring Book" align="middle"> </center>
+
+  <h5 class="text-center">Chance, pictured looking down at his daughter on his album cover, has been an intergral part of improving the conditions of Chicago, and raising moral of the citizens</h5>
+
+  <ul>
+    <li><b>April 16, 1993</b> <a href="https://en.wikipedia.org/wiki/Chance_the_Rapper">Chancelor Bennit</a> was born</li>
+    <li><b>April 3, 2012</b> 10 Day was releasesd</li>
+    <li><b>April 30, 2013</b> Acid Rap was released</li>
+    <li><b>May 28, 2015</b> Surf was co-released with Donnie Trumpet</li>
+    <li><b>May 13, 2016</b> Chance's third project Coloring Book was released. Coloring Book went under the alias "C3" until the title and artwork were revealed</li>
+
+    <li><b>September 18, 2016</b> Chance welcomed his daughter into the world</li>
+  </ul>
+</body>
